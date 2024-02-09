@@ -1,0 +1,22 @@
+JSON, que significa JavaScript Object Notation, es un formato de intercambio de datos ligero que es fácil de leer y escribir 
+para los humanos, y fácil de analizar y generar para las máquinas. Aquí están algunas de las características básicas e importantes 
+de JSON que podrías explicar a alguien que no está familiarizado con él:
+
+- Formato de texto: 
+JSON es un formato de texto que es completamente independiente del lenguaje pero utiliza convenciones que son familiares para los 
+programadores de la familia de lenguajes C, incluyendo C, C++, C#, Java, JavaScript, Perl, Python, y muchos otros.
+
+- Estructura de datos: JSON representa estructuras de datos simples y estructuras de datos compuestas utilizando dos tipos de estructuras 
+de datos: una colección de pares clave/valor (en otras palabras, un objeto) y una lista ordenada de valores (un array).
+
+- Tipos de datos: JSON soporta varios tipos de datos, incluyendo números, cadenas de texto, booleanos (verdadero/falso), arrays, objetos y null.
+
+- Sintaxis: La sintaxis de JSON es bastante simple. Los objetos se delimitan con llaves {} y contienen pares de claves y valores separados 
+por dos puntos :. Los arrays se delimitan con corchetes [] y contienen valores separados por comas. Las cadenas de texto se delimitan con 
+comillas dobles "".
+
+- Uso común: JSON es comúnmente utilizado para transmitir datos entre un servidor y una aplicación web, como una forma de enviar y recibir 
+datos entre el cliente y el servidor.
+
+- Facilidad de uso: Una de las razones de la popularidad de JSON es su facilidad de uso. Muchos lenguajes de programación tienen funciones 
+incorporadas para leer y escribir datos en formato JSON.

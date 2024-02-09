@@ -1,0 +1,6 @@
+
+*Indexación*
+
+En Python, las listas son colecciones ordenadas de elementos. Cada elemento en la lista tiene un índice asociado, 
+que es su posición en la lista. Los índices en Python comienzan en 0, lo que significa que el primer elemento de la lista 
+tiene el índice 0, el segundo elemento tiene el índice 1, y así sucesivamente.
